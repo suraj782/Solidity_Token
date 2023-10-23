@@ -10,7 +10,7 @@ I have created my own token named "Sur" abbreviated as "Ban". There is the recor
 
 * To implement the solidity code, I only used the Online Remix IDE. Then, in order to publish the same code on GitHub, I created a file called Sur.sol in this repository.
 
-## Executing programme: 
+## Executing program:
 
 * For the code execution, I used remix.ide.
 
